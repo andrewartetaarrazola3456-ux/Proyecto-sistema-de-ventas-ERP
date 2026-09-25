@@ -1,0 +1,9 @@
+SISTEMA DE VENTAS ERP
+FACTURA DE VENTA
+========================================
+Factura: 2
+Cliente: andrew
+
+P004 - Carpeta kraft x1 = $5.000
+========================================
+TOTAL: $5.000

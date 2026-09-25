@@ -1,0 +1,10 @@
+APP_NAME="ERP V3 - Gestión Empresarial"
+DB_NAME="sistema_erp.db"
+CURRENCY="$"
+DATE_FORMAT="%Y-%m-%d"
+DB_BACKEND="mysql"
+MYSQL_HOST="localhost"
+MYSQL_PORT=3306
+MYSQL_USER="root"
+MYSQL_PASSWORD= "andrew0418"
+MYSQL_DATABASE="sistema_ventas_erp"
